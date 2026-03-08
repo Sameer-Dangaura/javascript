@@ -6,7 +6,7 @@
 // const & let => block scope
 // var => function scope
 
-// lexical scope means that a function can access variables from its own scope and from the outer scopes, but not from the inner scopes.
+// lexical scope => means that a function can access variables from its own scope and from the outer scopes, but not from the inner scopes.
 // Example:
 
 function outer() {
